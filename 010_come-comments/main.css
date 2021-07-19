@@ -1,0 +1,6 @@
+/* adds a border to all imgae */
+img {
+    border: 10px groove orange;
+}
+
+/*here's another comment */
